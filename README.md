@@ -74,4 +74,4 @@ This plugin is a workaround for a [to-do](http://gruntjs.com/creating-tasks#cli-
 
 MIT
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ae3a06cc73fded765f8492d78c66ad30 "githalytics.com")](http://githalytics.com/shannonmoeller/handlebars-layouts)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shannonmoeller/nopt-grunt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
