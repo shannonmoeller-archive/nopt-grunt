@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-$ npm install handlebars-layouts
+$ npm install nopt-grunt
 ```
 
 ## Example
