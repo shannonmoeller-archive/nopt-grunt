@@ -1,10 +1,10 @@
 {
   "name": "nopt-grunt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Exposes the full nopt api for defining cli options in Gruntfiles.",
   "main": "nopt-grunt.js",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt test --foo --bar=42"
   },
   "repository": {
     "type": "git",
