@@ -2,7 +2,7 @@
 
 var assert = require('assert');
 
-// Test with `grunt test --foo --bar 42`
+// Test with `grunt test --foo --bar=42`
 module.exports = function(grunt) {
     assert.strictEqual(grunt.option('foo'), '--bar=42');
     assert.strictEqual(grunt.option('bar'), undefined);
