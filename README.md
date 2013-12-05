@@ -64,6 +64,12 @@ module.exports = function(grunt) {
 };
 ```
 
+## Known issues
+
+### `grunt --help` doesn't show my options
+
+This plugin is a workaround for a [to-do](http://gruntjs.com/creating-tasks#cli-options-environment) on the Grunt team's list. While it allows you to use the api as expected, options will not be displayed when using `grunt --help`. If you'd like to see this sort of functionality natively supported, go add your vote to my related [Github issue](https://github.com/gruntjs/grunt/issues/1005).
+
 ## License
 
 MIT
