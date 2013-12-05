@@ -1,0 +1,32 @@
+{
+  "name": "nopt-grunt",
+  "version": "0.1.0",
+  "description": "Exposes the full nopt api for defining cli options in Gruntfiles.",
+  "main": "nopt-grunt.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shannonmoeller/nopt-grunt.git"
+  },
+  "keywords": [
+    "grunt",
+    "nopt",
+    "cli",
+    "option",
+    "flag"
+  ],
+  "author": "Shannon Moeller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shannonmoeller/nopt-grunt/issues"
+  },
+  "homepage": "https://github.com/shannonmoeller/nopt-grunt",
+  "dependencies": {
+    "nopt": "~2.1.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
