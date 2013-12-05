@@ -1,4 +1,4 @@
-# Handlebars Layouts [![Build Status](https://travis-ci.org/shannonmoeller/handlebars-layouts.png)](https://travis-ci.org/shannonmoeller/handlebars-layouts)
+# nopt-grunt [![Build Status](https://travis-ci.org/shannonmoeller/nopt-grunt.png)](https://travis-ci.org/shannonmoeller/nopt-grunt)
 
 > Allows additional command line options to be registered using [nopt](https://github.com/isaacs/nopt) along with those natively supported by [grunt](http://gruntjs.org).
 
