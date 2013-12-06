@@ -1,12 +1,18 @@
-# nopt-grunt [![Build Status](https://travis-ci.org/shannonmoeller/nopt-grunt.png)](https://travis-ci.org/shannonmoeller/nopt-grunt)
+# nopt-grunt
 
 > Allows additional command line options to be properly registered using [nopt](https://github.com/isaacs/nopt) along with those natively supported by [grunt](http://gruntjs.org).
 
+[![Build Status](https://travis-ci.org/shannonmoeller/nopt-grunt.png?branch=master)](https://travis-ci.org/shannonmoeller/nopt-grunt)
+[![NPM version](https://badge.fury.io/js/nopt-grunt.png)](http://badge.fury.io/js/nopt-grunt)
+[![Dependency Status](https://gemnasium.com/shannonmoeller/nopt-grunt.png)](https://gemnasium.com/shannonmoeller/nopt-grunt)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shannonmoeller/nopt-grunt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
 ## Install
 
-```sh
-$ npm install nopt-grunt
-```
+With [Node.js](http://nodejs.org)
+
+    $ npm install nopt-grunt
 
 ## Example
 
@@ -73,5 +79,3 @@ This plugin is a workaround for a [to-do](http://gruntjs.com/creating-tasks#cli-
 ## License
 
 MIT
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shannonmoeller/nopt-grunt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
