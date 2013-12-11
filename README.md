@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/shannonmoeller/nopt-grunt.png?branch=master)](https://travis-ci.org/shannonmoeller/nopt-grunt)
 [![NPM version](https://badge.fury.io/js/nopt-grunt.png)](http://badge.fury.io/js/nopt-grunt)
 [![Dependency Status](https://gemnasium.com/shannonmoeller/nopt-grunt.png)](https://gemnasium.com/shannonmoeller/nopt-grunt)
+[![Stories in Ready](http://badge.waffle.io/shannonmoeller/nopt-grunt.png)](http://waffle.io/shannonmoeller/nopt-grunt)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shannonmoeller/nopt-grunt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
