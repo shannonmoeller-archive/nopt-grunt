@@ -1,3 +1,5 @@
+*DEPRECATION NOTICE*: This project is no longer maintained. Grunt has corrected the issues which made this plugin useful.
+
 # nopt-grunt
 
 > Allows additional command line options to be properly registered using [nopt](https://github.com/isaacs/nopt) along with those natively supported by [grunt](http://gruntjs.org).
